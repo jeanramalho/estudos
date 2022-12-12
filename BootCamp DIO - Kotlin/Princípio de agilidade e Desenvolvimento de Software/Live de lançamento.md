@@ -8,3 +8,4 @@
 ### Metodologia do Bootcamp
 
 - O termo bootcamp em do preparatório imersivo de soldados para a guerra.
+- Foco nos estudos, sair da zona de conforto, entender como mercado funciona, focar em projetos e códigos com data de entrega.
