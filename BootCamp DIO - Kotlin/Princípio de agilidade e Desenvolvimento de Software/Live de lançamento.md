@@ -9,3 +9,6 @@
 
 - O termo bootcamp em do preparatório imersivo de soldados para a guerra.
 - Foco nos estudos, sair da zona de conforto, entender como mercado funciona, focar em projetos e códigos com data de entrega.
+- Comunidade colaborativa.
+- Duração do bootcamp até 13 de Janeiro.
+- Independe de onde vai aplicar o Kotlin.
