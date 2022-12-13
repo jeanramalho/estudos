@@ -16,8 +16,9 @@ export class AppController {
     await this.prisma.notifications.create({
       data: {
         id: randomUUID(),
-        content: 'Você tem uma nova solicitação de amizade',
-        recipientId:  randomUUID(),
+        content: 'Você tem uma nova solicitação de amizade!',
+        catgory: 'social',
+        recipentId:  randomUUID(),
       }
     });
     
