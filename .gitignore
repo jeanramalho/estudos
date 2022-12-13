@@ -1,6 +1,6 @@
 # compiled output
 /dist
-notifications-service/node_modules
+ingite-lab-node/notifications-service/node_modules
 
 # Logs
 logs
