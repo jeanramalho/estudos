@@ -16,4 +16,4 @@ Para isso usamos a duplicidade de dados, nos microsserviços que precisem de inf
 
 ### Nest.js
 
-O Nest.js é um framework opinado, ele traz conveção, onde você não é 100% livre pra criar arquivos, ele tem arquivos pré-definidos, modelos pré-definidos.
+O Nest.js é um framework opinado, ele traz conveção, onde você não é 100% livre pra criar arquivos, ele tem arquivos pré-definidos, modelos pré-definidos. Auxilia na produtividade pois já vem com muitas coisas prontas.
