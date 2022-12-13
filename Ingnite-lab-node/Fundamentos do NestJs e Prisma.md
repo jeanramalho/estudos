@@ -11,3 +11,5 @@ Já em microsserviços, a arquitetura é baseada em dividir a aplicação em vá
 Microsserviços impacta muito mais na hospedagem e escalagem da aplicação do que no código.
 
 Quando trabalhamos com microsserviços é necessário que exista independencia do banco de dados, ou seja, um banco de dados para cada microsserviço.
+
+Para isso usamos a duplicidade de dados, nos microsserviços que precisem de informações de outros microsserviços.
