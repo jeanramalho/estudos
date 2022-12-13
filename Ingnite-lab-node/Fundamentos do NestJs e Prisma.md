@@ -31,3 +31,16 @@ $ nest new project-name
 
 Decorators são funções que dão poder a atributos, métodos e até mesmo às classes.
 
+
+### Services
+
+São classes sem um propósito específico, pode ser qualquer coisa dentro do nest.js. Uma classe genérica que vai ser utilizada dentro dos controllers ou dentro dos próprios services.
+
+### Inversão de Dependencia
+
+Quando uma classe que recebe suas dependencias através do construtor. Quem for estanciar a classe vai dizer quais são as dependencias dela.
+
+### Injeção de Dependencia
+
+Uma forma de automatizar a inserção das dependencias no momento em que as classes forem instanciadas. Ou seja a partir do momento que o controller precisar de uma dependencia de um determinado tipo, automaticamente é detectado que dentro do módulo existe uma classe com o determinado tipo, e essa classe precisa ter o decorator @Injectable.
+
