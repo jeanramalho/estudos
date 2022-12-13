@@ -26,3 +26,8 @@ $ npm i -g @nestjs/cli
 
 Criar um novo projeto no Nest.js
 $ nest new project-name
+
+### Decorators
+
+Decorators são funções que dão poder a atributos, métodos e até mesmo às classes.
+
