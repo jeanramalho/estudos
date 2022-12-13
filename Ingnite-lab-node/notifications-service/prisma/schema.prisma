@@ -11,7 +11,12 @@ datasource db {
 }
 
 model Notifications {
-  id String @id
-  content String
-  catgory String
+  id         String    @id
+  recipentId String
+  content    String
+  catgory    String
+  readAt     DateTime?
+  createAt   DateTime  @default(now())
+
+  @@index([recipentId])
 }
