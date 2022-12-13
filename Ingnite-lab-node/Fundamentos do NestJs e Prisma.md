@@ -17,3 +17,12 @@ Para isso usamos a duplicidade de dados, nos microsserviços que precisem de inf
 ### Nest.js
 
 O Nest.js é um framework opinado, ele traz conveção, onde você não é 100% livre pra criar arquivos, ele tem arquivos pré-definidos, modelos pré-definidos. Auxilia na produtividade pois já vem com muitas coisas prontas.
+
+Documentação do Nest.js
+https://docs.nestjs.com/
+
+Instalar o Nest.js
+$ npm i -g @nestjs/cli
+
+Criar um novo projeto no Nest.js
+$ nest new project-name
