@@ -13,3 +13,7 @@ Microsserviços impacta muito mais na hospedagem e escalagem da aplicação do q
 Quando trabalhamos com microsserviços é necessário que exista independencia do banco de dados, ou seja, um banco de dados para cada microsserviço.
 
 Para isso usamos a duplicidade de dados, nos microsserviços que precisem de informações de outros microsserviços.
+
+### Nest.js
+
+O Nest.js é um framework opinado, ele traz conveção, onde você não é 100% livre pra criar arquivos, ele tem arquivos pré-definidos, modelos pré-definidos.
