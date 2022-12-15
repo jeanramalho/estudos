@@ -47,3 +47,4 @@ Uma forma de automatizar a inserção das dependencias no momento em que as clas
 ### SQLite
 
 É possível utilizar o sqlite que é um banco de dados de arquivo físico.
+Com o prisma, é possível fazer uso desse model de banco de dados.
