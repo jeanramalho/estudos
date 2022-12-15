@@ -9,3 +9,4 @@
 
 - [] Baixar aulas do node da rocketseat
 - [] Fazer trabalho da faculdade
+- [] Criar uma aplicação de notas
