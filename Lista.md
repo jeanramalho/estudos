@@ -6,3 +6,6 @@
 * API Escalavel com Node
 
 ### Tarefas
+
+- [] Baixar aulas do node da rocketseat
+- [] Fazer trabalho da faculdade
