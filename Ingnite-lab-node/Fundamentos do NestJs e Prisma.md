@@ -44,3 +44,6 @@ Quando uma classe que recebe suas dependencias através do construtor. Quem for 
 
 Uma forma de automatizar a inserção das dependencias no momento em que as classes forem instanciadas. Ou seja a partir do momento que o controller precisar de uma dependencia de um determinado tipo, automaticamente é detectado que dentro do módulo existe uma classe com o determinado tipo, e essa classe precisa ter o decorator @Injectable.
 
+### SQLite
+
+É possível
