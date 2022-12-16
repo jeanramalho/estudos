@@ -26,3 +26,9 @@ Profissional focado em cores, tipografia, microinterações e estilos.
 O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
 
 ### API => Application Programming Iterface
+
+## QA
+
+Quality Assurance pode ser definida como um conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores um produto ou serviço com alto nível de qualidade. No desenvolvimento de software, aplicar os métodos de QA que geram confiança e segurança aos clientes, indicando que os seus produtos terão a qualidade esperada na estapa de implementação.
+
+O profissional de Quality Assurance deve ter conhecimento sobre as atividades do projeto, além de ter um perfil analítico. Ele verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados nos produto serão entregues.
