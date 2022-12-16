@@ -19,4 +19,4 @@ Roadmap do ux designer
 ## UI Designer
 
 O designer de interface do usuário é o profissional responsável por criar o que o usua´rio irá ver e utilizar o produto. Este profissional entende padrões visuais que podem ajudar o usuário na experiência de utilização do software.
-Profissional focado em cores, tipografia, microinterações e estilos
+Profissional focado em cores, tipografia, microinterações e estilos.
