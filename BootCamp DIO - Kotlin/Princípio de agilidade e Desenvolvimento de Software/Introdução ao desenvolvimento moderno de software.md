@@ -8,4 +8,10 @@ Um dos primeiros profissionais a atuar no desenvolvimento de um software é o UX
 
 O design da experiência do usuário ou UX design é o processo que visa melhorar a satisfação do usuário com um produto ou serviço, melhorando a usabilidade, a a acessibilidade e até melho a satisfação proporcionada na interação.
 
-O profissional de UX design vai entender a pessoa que vai usar o software e vai montar um wireframe de acordo com a melhor usabilidade para o usuário
+O profissional de UX design vai entender a pessoa que vai usar o software e vai montar um wireframe de acordo com a melhor usabilidade para o usuário.
+
+Roadmap do ux designer
+* Pesquisa
+* Protótipo
+* Personas
+* Objetivos
