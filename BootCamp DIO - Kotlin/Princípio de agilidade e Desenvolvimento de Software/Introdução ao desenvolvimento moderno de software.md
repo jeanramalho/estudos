@@ -20,3 +20,7 @@ Roadmap do ux designer
 
 O designer de interface do usuário é o profissional responsável por criar o que o usua´rio irá ver e utilizar o produto. Este profissional entende padrões visuais que podem ajudar o usuário na experiência de utilização do software.
 Profissional focado em cores, tipografia, microinterações e estilos.
+
+## Modelo Cliente-Servidor
+
+O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
