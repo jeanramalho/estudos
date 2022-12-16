@@ -24,3 +24,5 @@ Profissional focado em cores, tipografia, microinterações e estilos.
 ## Modelo Cliente-Servidor
 
 O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+
+### API => Application Programming Iterface
