@@ -16,3 +16,10 @@ O documento foi criado em fevereiro de 2001, quando 17 profissionais, que já pr
 
 Embora esses 17 profissionais utilizassem abordagens e métodos diferentes, eles compartilhavam dos mesmos fundamentos.
 
+Foram materializados 4 valores e 12 princípios do manifesto ágil.
+
+Valores
+* Indivíduos e interações devem ser mais valorizados que processos e ferramentas.
+* Software em funcionamento deve ser mais valorizado do que uma documentação abrangente.
+* Reponder a mudanças deve ser mais valorizada do que seguir um plano.
+* Colaboração com o cliente deve ser mais valorizada que a negociação de contratos.
