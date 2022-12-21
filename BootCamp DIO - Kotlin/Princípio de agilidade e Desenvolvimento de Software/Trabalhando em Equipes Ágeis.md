@@ -26,3 +26,14 @@ Valores
 
 Simplicidade, a arte de maximar o que deve ser feito, de maneira simples agil e pratica!
 Ser simples e acertivo com relação às entregas.
+
+## Caracteristicas de um time Ágil
+
+* Alinhado com cliente e steakholders
+* Auto-organizado e responsável
+* Multidisciplinar
+* Entrega valor continuamente
+* Está sempre aprendendo
+* Melhoria contínua
+* Possui métricas e metas claras
+* Unido
