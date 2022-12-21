@@ -9,3 +9,5 @@ Os posts contam muito, porém ser visto vai muito além disso, é necessário te
 ## Estudos
 
 Os estudos são muito importantes para a vida de um desenvolvedor, pois devem sempre fazer parte de rotina diária. O aprendizado deve ser contínuo e as atualizações nas tecnoligias constantes, já que o mundo está em constante evolução.
+
+Por isso o programador deve sempre separar um tempo na rotina diária dele para estudar, e praticar o que aprendeu.
