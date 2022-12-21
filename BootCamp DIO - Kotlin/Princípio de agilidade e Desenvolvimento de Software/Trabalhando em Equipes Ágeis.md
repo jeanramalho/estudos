@@ -42,8 +42,11 @@ Ser simples e acertivo com relação às entregas.
 Ser um time unido é uma consequencia de um time ágil.
 
 
-
-
 # Gerenciamento de projetos e Gestão ágil
 
-s
+
+## Projeto X Processos
+
+Processos => É recorrente e contínuo, é replicável e geralmente é repetitivo e realizado regularmente.
+
+Projeto => Um esforço temporário para atingir um objetivo, o resultado é exclusivo, tem início e fim bem definidos.
