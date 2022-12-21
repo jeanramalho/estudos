@@ -23,3 +23,6 @@ Valores
 * Software em funcionamento deve ser mais valorizado do que uma documentação abrangente.
 * Reponder a mudanças deve ser mais valorizada do que seguir um plano.
 * Colaboração com o cliente deve ser mais valorizada que a negociação de contratos.
+
+Simplicidade, a arte de maximar o que deve ser feito, de maneira simples agil e pratica!
+Ser simples e acertivo com relação às entregas.ß
