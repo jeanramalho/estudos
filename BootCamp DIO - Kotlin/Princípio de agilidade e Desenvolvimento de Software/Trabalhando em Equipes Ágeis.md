@@ -37,3 +37,4 @@ Ser simples e acertivo com relação às entregas.
 * Melhoria contínua
 * Possui métricas e metas claras
 * Unido
+
