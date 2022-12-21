@@ -38,3 +38,5 @@ Ser simples e acertivo com relação às entregas.
 * Possui métricas e metas claras
 * Unido
 
+
+Ser um time unido é uma consequencia de um time ágil.
