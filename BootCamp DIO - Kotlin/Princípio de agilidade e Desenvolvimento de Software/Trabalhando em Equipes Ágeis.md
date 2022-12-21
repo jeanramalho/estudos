@@ -25,4 +25,4 @@ Valores
 * Colaboração com o cliente deve ser mais valorizada que a negociação de contratos.
 
 Simplicidade, a arte de maximar o que deve ser feito, de maneira simples agil e pratica!
-Ser simples e acertivo com relação às entregas.ß
+Ser simples e acertivo com relação às entregas.
