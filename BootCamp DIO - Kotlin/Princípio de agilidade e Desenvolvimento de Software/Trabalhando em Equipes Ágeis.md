@@ -40,3 +40,10 @@ Ser simples e acertivo com relação às entregas.
 
 
 Ser um time unido é uma consequencia de um time ágil.
+
+
+
+
+# Gerenciamento de projetos e Gestão ágil
+
+s
