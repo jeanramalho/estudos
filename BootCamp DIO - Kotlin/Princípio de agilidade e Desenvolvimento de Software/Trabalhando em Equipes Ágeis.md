@@ -50,3 +50,9 @@ Ser um time unido é uma consequencia de um time ágil.
 Processos => É recorrente e contínuo, é replicável e geralmente é repetitivo e realizado regularmente.
 
 Projeto => Um esforço temporário para atingir um objetivo, o resultado é exclusivo, tem início e fim bem definidos.
+
+## Gerenciamento de projetos Ágil X Gerenciamento de projetos tradicional
+
+Modelo tradicional => Modelo cascata ou Waterfall, que uma fase depende da fase anterior estar concluída para iniciar.
+
+Modelo Ágil => 
