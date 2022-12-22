@@ -15,3 +15,6 @@ Por isso o programador deve sempre separar um tempo na rotina diária dele para 
 ## Exercícios
 
 A vida de um programador é gira basicamente em ficar sentado de frente para um computador, isso cansa a não somente a mente, mas o corpo também, por isso o exercício é essencial, cuidar do corpo, ajuda a manter uma mente mais limpa e saudável.
+
+## Alimentação
+
