@@ -23,3 +23,7 @@ Para ter uma mente limpa e ápta a desenvolver idéia é necessário uma aliment
 ## Saude mental
 
 Muita gente pensa que terapia é uma bobagem, e não dão a devida importância, porém cuidar da saúde mental, não deve ser um tabu, e muito menos motivo de vergonha para ninguém. Sem a cabeça no lugar, fica muito mais díficil focar no trabalho, lidar com problemas profissionais e pessoais e até mesmo separar a vida profissional da pessoal, portanto é importante não deixar para depois, e manter sempre a saúde mental em dia.
+
+## Água
+
+Beber água é um ato necessário para o corpo humano, e água purifica ajuda a purificar o corpo e a mente, para um desenvolvedor isso é muito importante, portanto beber água é uma coisa que não pode faltar para nós, desenvolvedore.
