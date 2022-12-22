@@ -18,3 +18,4 @@ A vida de um programador é gira basicamente em ficar sentado de frente para um 
 
 ## Alimentação
 
+Para ter uma mente limpa e ápta a desenvolver idéia é necessário uma alimentação balanceada, e saudável, que junto ao exercício físico, vai desbloquear a mente para desenvoler idéias e coda-las.
