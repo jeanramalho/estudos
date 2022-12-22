@@ -56,3 +56,5 @@ Projeto => Um esforço temporário para atingir um objetivo, o resultado é excl
 Modelo tradicional => Modelo cascata ou Waterfall, que uma fase depende da fase anterior estar concluída para iniciar. Só entrega valor pro cliente a partir da epata da entrega.
 
 Modelo Ágil => Scrum => Modelo baseado em ciclos, e em cada final de ciclo ou sprint, são feitas entregas menoree, dessa maneira estará sempre entregando valor pro cliente. Desenvolvimento iterativo e incremental.
+
+
