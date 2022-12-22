@@ -19,3 +19,7 @@ A vida de um programador é gira basicamente em ficar sentado de frente para um 
 ## Alimentação
 
 Para ter uma mente limpa e ápta a desenvolver idéia é necessário uma alimentação balanceada, e saudável, que junto ao exercício físico, vai desbloquear a mente para desenvoler idéias e coda-las.
+
+## Saude mental
+
+Muita gente pensa que terapia é uma bobagem, e não dão a devida importância, porém cuidar da saúde mental, não deve ser um tabu, e muito menos motivo de vergonha para ninguém. Sem a cabeça no lugar, fica muito mais díficil focar no trabalho, lidar com problemas profissionais e pessoais e até mesmo separar a vida profissional da pessoal, portanto é importante não deixar para depois, e manter sempre a saúde mental em dia.
