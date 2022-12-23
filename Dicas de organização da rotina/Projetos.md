@@ -14,4 +14,4 @@ A idéia principal do projeto é que sejam cadastradas issues no portal, cada is
 Melhorias a ser implementadas
 * Um painel com visualização de status das issues
 * Um drag'n drop no painel de visualização de status
-* 
+* Filtos por analista, por cliente, por data de finalização, por prioridade
