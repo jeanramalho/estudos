@@ -11,3 +11,7 @@ A idéia principal do projeto é que sejam cadastradas issues no portal, cada is
 * Nome da conta
 * Data limite do término da issue
 
+Melhorias a ser implementadas
+* Um painel com visualização de status das issues
+* Um drag'n drop no painel de visualização de status
+* 
