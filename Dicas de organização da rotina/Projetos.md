@@ -15,3 +15,16 @@ Melhorias a ser implementadas
 * Um painel com visualização de status das issues
 * Um drag'n drop no painel de visualização de status
 * Filtos por analista, por cliente, por data de finalização, por prioridade
+
+## Engenharia do projeto
+
+Tecnologias a serem usadas no front-end:
+* React
+* HTML
+* CSS
+* Javascript
+
+Tecnologias a serem usadas no back-end:
+* NodeJS
+* SQLite
+* Prisma
