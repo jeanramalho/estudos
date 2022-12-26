@@ -63,3 +63,6 @@ Gestão é uma forma de gestão que seja flexivel e se adapte as mudanças, cola
 
 
 # Scrum
+
+## O que é Scrum
+
