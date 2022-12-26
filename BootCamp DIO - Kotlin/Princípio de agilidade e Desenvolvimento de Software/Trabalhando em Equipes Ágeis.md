@@ -60,3 +60,6 @@ Modelo Ágil => Scrum => Modelo baseado em ciclos, e em cada final de ciclo ou s
 ## O que é gestão ágil
 
 Gestão é uma forma de gestão que seja flexivel e se adapte as mudanças, colaborativa e que gere transparência, voltada ao aprendizado e com entrega contínua de valor.
+
+
+# Scrum
