@@ -57,4 +57,6 @@ Modelo tradicional => Modelo cascata ou Waterfall, que uma fase depende da fase 
 
 Modelo Ágil => Scrum => Modelo baseado em ciclos, e em cada final de ciclo ou sprint, são feitas entregas menoree, dessa maneira estará sempre entregando valor pro cliente. Desenvolvimento iterativo e incremental.
 
+## O que é gestão ágil
+
 
