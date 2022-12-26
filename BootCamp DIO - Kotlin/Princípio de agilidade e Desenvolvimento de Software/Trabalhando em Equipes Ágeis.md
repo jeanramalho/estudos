@@ -67,3 +67,5 @@ Gestão é uma forma de gestão que seja flexivel e se adapte as mudanças, cola
 ## O que é Scrum
 
 O Scrum é um framework leve que ajuda pessoas, times e organizações e gerar valor por meio de soluções adaptativas para problemas complexos.
+
+### Pilares do Scrum
