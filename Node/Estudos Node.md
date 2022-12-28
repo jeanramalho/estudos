@@ -32,3 +32,11 @@ A LibUV que é uma biblioteca que deu caracteristicas de backend para o node.
 ## Módulos
 
 Módulos é a divisão do código, em vários arquivos, parecido com os componentes em react.
+
+Para exportar um módulo use module.export = nome_da_função
+
+Para chamar o módulo no arquivo principal use require("./endereço_do_arquivo") mas é preciso guardar essa requisição em uma variável.
+
+Ex: var Soma = require("./soma")
+
+Require é uma função nativa do javascript, que vai importar o que foi exportado no arquivo referenciado.
