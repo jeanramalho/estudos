@@ -14,3 +14,11 @@ As duas bases do node são:
 O motor V8 que é responsável por entender o javascript.
 
 A LibUV que é uma biblioteca que deu caracteristicas de backend para o node.
+
+### Vantagens
+
+* Muito Leve
+* Usa pouca memória Ram
+* Melhor aproveitamento da CPU
+* Utiliza javascript
+* Tem um dos maiores ecossistemas de bibliotecas, módulos e pugins (NPM)
