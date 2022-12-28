@@ -22,3 +22,9 @@ A LibUV que é uma biblioteca que deu caracteristicas de backend para o node.
 * Melhor aproveitamento da CPU
 * Utiliza javascript
 * Tem um dos maiores ecossistemas de bibliotecas, módulos e pugins (NPM)
+
+
+## Instalação do node
+
+* url => nodejs.org
+
