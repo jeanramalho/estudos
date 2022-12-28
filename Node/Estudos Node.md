@@ -100,6 +100,10 @@ A maioria das funções do express aceita funções de callback.
 
 Para criar rotas com o express use o a const app chame o método http desejado passe o nome da rota e configure a função de callback recebendo os parametros req e res.
 
-Ex: app.get("/", function(req, res){
+Ex: app.get("/boasvindas", function(req, res){
     res.send("Seja bem vindo a rota get")
 })
+
+Rotas são os caminhos da sua aplicação!
+
+O express e um framework orientado a rotas.
