@@ -95,3 +95,11 @@ A função lisen do express quando é executada, ela dispara um evento e atravé
 Ex: app.listen(8082, function(){
     console.log("Servidor rodando na porta 8081")
 })
+
+A maioria das funções do express aceita funções de callback.
+
+Para criar rotas com o express use o a const app chame o método http desejado passe o nome da rota e configure a função de callback recebendo os parametros req e res.
+
+Ex: app.get("/", function(req, res){
+    res.send("Seja bem vindo a rota get")
+})
