@@ -64,3 +64,26 @@ A função createServer() aceita uma função de callback que recebe dois parame
 Ex: http.createServer(function(req, res){
     res.end("Olá")
 }).listen(8081)
+
+## Express/Rotas
+
+Principal framework do node para criação de servidores. Um framework minimalista, rápido que aumenta a produtividade do node.
+
+Para utilizar o express é necessário utilizar o npm.
+Para salvar os arquivos do módulo dentro do projeto use o --save
+
+Ex: npm install express --save
+
+O Express é um módulo, e para carregar o módulo, é aquele procedimento que já vimos.
+
+const express = require('express')
+
+Após fazer a requisição do express instancie dentro da variável app.
+
+const app = express()
+
+Use const para requere e instanciar o express para deixar sua aplicação mais segura.
+
+Para abrir o servidor com express é muito simples basta chamar a const app e chamar a função listen passando a porta desejada.
+
+Ex: app.listen(8081)
