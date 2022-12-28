@@ -40,3 +40,9 @@ Para chamar o módulo no arquivo principal use require("./endereço_do_arquivo")
 Ex: var Soma = require("./soma")
 
 Require é uma função nativa do javascript, que vai importar o que foi exportado no arquivo referenciado.
+
+## Protocolo
+
+Http => Hypertext Transfer Protocol
+
+HTTP é um protocolo de transferência que possibilita que as pessoas que inserem a URL do seu site na Web possam ver os conteúdos e dados que nele existem.
