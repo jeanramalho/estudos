@@ -9,3 +9,8 @@ Um interpretador Javascript que não depende do navegador, ou seja, ele é total
 
 Node mudou o mundo de javascript tirando a linguagem do navegador.
 
+As duas bases do node são:
+
+O motor V8 que é responsável por entender o javascript.
+
+A LibUV que é uma biblioteca que deu caracteristicas de backend para o node.
