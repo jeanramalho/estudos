@@ -87,3 +87,11 @@ Use const para requere e instanciar o express para deixar sua aplicação mais s
 Para abrir o servidor com express é muito simples basta chamar a const app e chamar a função listen passando a porta desejada.
 
 Ex: app.listen(8081)
+
+Essa linha de código deve ser a última, e toda aplicação deve ser programada acima dessa linha.
+
+A função lisen do express quando é executada, ela dispara um evento e através desse evento nós conseguimos disparar uma função de callback.
+
+Ex: app.listen(8082, function(){
+    console.log("Servidor rodando na porta 8081")
+})
