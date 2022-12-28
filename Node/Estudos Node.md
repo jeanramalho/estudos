@@ -29,3 +29,6 @@ A LibUV que é uma biblioteca que deu caracteristicas de backend para o node.
 * url => nodejs.org
 
 
+## Módulos
+
+Módulos é a divisão do código, em vários arquivos, parecido com os componentes em react.
