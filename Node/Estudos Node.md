@@ -125,3 +125,6 @@ Para instalar o nodemon use:
 A flag -g é para que o nodemon seja instalado globalmente, não somente no projeto especificado.
 
 Para executar o projeto, após instalar o nodemon, utilize o nodemon ao invés de node.
+
+## Renderizar arquivos HTML com node.
+
