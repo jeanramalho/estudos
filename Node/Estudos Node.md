@@ -107,3 +107,7 @@ Ex: app.get("/boasvindas", function(req, res){
 Rotas são os caminhos da sua aplicação!
 
 O express e um framework orientado a rotas.
+
+## Parametros 
+
+Os parâmetros são formas de tornar as rotas dinâmicas.
