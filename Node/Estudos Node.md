@@ -115,3 +115,11 @@ Os parâmetros são formas de tornar as rotas dinâmicas.
 Para identificar um parâmetro na rota é preciso usar a /: após a rota base.
 
 Dentro da função de uma rota só é possivel usar a função res.send() apenas uma vez.
+
+## Nodemon
+
+Para instalar o nodemon use:
+
+* npm install nodemon -g
+
+A flag -g é para que o nodemon seja instalado globalmente, não somente no projeto especificado.
