@@ -131,3 +131,5 @@ Para executar o projeto, após instalar o nodemon, utilize o nodemon ao invés d
 Para renderizar um arquivo HTML ao invés de utilizar res.send() use:
 
 * res.sendFile(__dirname + "/caminho/do/aquivo.html")
+
+A variável __dirname pega o caminho do diretório atual.
