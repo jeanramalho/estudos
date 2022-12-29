@@ -111,3 +111,5 @@ O express e um framework orientado a rotas.
 ## Parametros 
 
 Os parâmetros são formas de tornar as rotas dinâmicas.
+
+Para identificar um parâmetro na rota é preciso usar a /: após a rota base.
