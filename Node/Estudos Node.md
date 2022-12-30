@@ -141,3 +141,7 @@ O mySQL serve pra isso.
 
 * Site official do mySQL
 https://www.mysql.com/
+
+Baixe a versão community, que é a versão gratuita.
+
+Baixe a versão offline para ter o instalador completo.
