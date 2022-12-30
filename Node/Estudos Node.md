@@ -157,6 +157,21 @@ Ao instalar o mysql é instalado o mysql command line onde você pode usar linha
 
 Abra o cmd com variável de ambiente linkada ou o mysql command line e digite o comando:
 
-* mysql -h localhost
+* mysql -h localhost -u root -p
 
-O parâmetro -h serve para apontar para qual servidor você quer se conectar, e o localhost é o servidor local.
+O parâmetro -h serve para apontar para qual servidor você quer se conectar, e o localhost é o servidor local, o parametro -u é o usuário, root é o usuário o parâmetro -p é a senha, após digitar enter será solicitada a senha configurada para o usuário root na instalação do mysql.
+
+Abaixo alguns comandos mysql, sempre que usar um comando sql via linha de comando é necessário usar o ; no final.
+
+O comando para apresentar os bancos de dados disponíveis é:
+
+* show DATABASES;
+
+Criar banco de dados
+
+* CREATE DATABASE NomeDoBanco;
+
+Para acessar o banco de dados específico:
+
+* USE NomeDoBanco;
+
