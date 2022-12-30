@@ -188,3 +188,7 @@ Criar tabela:
     coluna2 VARCHAR,
     coluna3 INT
 )
+
+Ver estrutura da tabela
+
+* DESCRIBE NomeDaTabela
