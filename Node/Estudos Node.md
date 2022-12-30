@@ -145,3 +145,8 @@ https://www.mysql.com/
 Baixe a versão community, que é a versão gratuita.
 
 Baixe a versão offline para ter o instalador completo.
+
+Ao instalar configure a senha para um usuário root, que é um usuário que terá permissão de tudo.
+
+No windows o mysql não é linkado automaticamente no cmd.
+É preciso linkar manualmente, criando uma variável de ambiente do tipo path.
