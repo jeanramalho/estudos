@@ -163,6 +163,8 @@ O parâmetro -h serve para apontar para qual servidor você quer se conectar, e 
 
 Abaixo alguns comandos mysql, sempre que usar um comando sql via linha de comando é necessário usar o ; no final.
 
+É possível guardar arquivos no mySQL através do tipo de dados Blob.
+
 O comando para apresentar os bancos de dados disponíveis é:
 
 * show DATABASES;
@@ -175,3 +177,14 @@ Para acessar o banco de dados específico:
 
 * USE NomeDoBanco;
 
+Exibir todas as tabelas do banco de dados selecionado.
+
+* SHOW TABLES;
+
+Criar tabela:
+
+* CREATE TABLE NomeDaTabela(
+    coluna1 VARCHAR(NUMERO DE CARACTERES),
+    coluna2 VARCHAR,
+    coluna3 INT
+)
