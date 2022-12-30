@@ -155,3 +155,8 @@ Ao instalar o mysql é instalado o mysql command line onde você pode usar linha
 
 ## Criando tabelas no MySQL
 
+Abra o cmd com variável de ambiente linkada ou o mysql command line e digite o comando:
+
+* mysql -h localhost
+
+O parâmetro -h serve para apontar para qual servidor você quer se conectar, e o localhost é o servidor local.
