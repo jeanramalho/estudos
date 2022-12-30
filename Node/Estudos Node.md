@@ -150,3 +150,8 @@ Ao instalar configure a senha para um usuário root, que é um usuário que ter�
 
 No windows o mysql não é linkado automaticamente no cmd.
 É preciso linkar manualmente, criando uma variável de ambiente do tipo path.
+
+Ao instalar o mysql é instalado o mysql command line onde você pode usar linhas de comando no mysql sem ter a variável de ambiente linkada.
+
+## Criando tabelas no MySQL
+
