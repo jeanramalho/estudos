@@ -138,3 +138,6 @@ A variável __dirname pega o caminho do diretório atual.
 
 O mySQL é um sistema de gerenciamento de banco de dados. E quando estamos criando uma aplicação back-end é necessário ter um lugar onde guardar dados.
 O mySQL serve pra isso.
+
+* Site official do mySQL
+https://www.mysql.com/
