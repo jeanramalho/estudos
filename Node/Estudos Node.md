@@ -220,3 +220,5 @@ Para listar somente determinadas linhas da tabela é necessário usar uma condi�
 Lista dados de acordo com a condição informada.
 
 * SELECT * FROM nome_tabela WHERE campo3 = 3;
+
+## Deletando registros no mySQL
