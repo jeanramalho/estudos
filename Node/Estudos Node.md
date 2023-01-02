@@ -232,3 +232,5 @@ Deletando toda a tabela
 Deletando uma linha especifica
 
 * DELETE FROM nome_tabela WHERE campo1 = "registro do campo 1"
+
+Nunca utilize o comando DELETE sem WHERE sem ter a certeza que quer deletar toda a tabela.
