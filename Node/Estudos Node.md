@@ -228,3 +228,7 @@ Para deletar um registro é necessário utilizar o comando DELETE
 Deletando toda a tabela
 
 * DELETE FROM nome_tabela;
+
+Deletando uma linha especifica
+
+* DELETE FROM nome_tabela WHERE campo1 = "registro do campo 1"
