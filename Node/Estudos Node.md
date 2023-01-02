@@ -204,3 +204,11 @@ Inserir dados na tabela
     "valor do campo 3",
     3
 );
+
+Para selecionar todos os dados utilize * para selecionar dados específicos utilize o nome dos campos na tabela.
+
+Lista todos os dados da tabela
+
+* SELECT * FROM nome_tabela;
+
+Lista somente dados informados
