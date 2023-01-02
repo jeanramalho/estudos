@@ -213,4 +213,10 @@ Lista todos os dados da tabela
 
 Lista somente dados informados da tabela selecionada
 
-* SELECT campo1 from nome_tabela
+* SELECT campo1 FROM nome_tabela
+
+Para listar somente determinadas linhas da tabela é necessário usar uma condição chamada WHERE.
+
+Lista dados de acordo com a condição informada.
+
+* SELECT * FROM nome_tabela WHERE campo3 = 3;
