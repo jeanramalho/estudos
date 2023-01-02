@@ -239,3 +239,10 @@ Nunca utilize o comando DELETE sem WHERE sem ter a certeza que quer deletar toda
 
 O comando para atualizar registros no mySQL é o UPDATE.
 
+Atualizar todo o registro de um campo da tabela
+
+* UPDATE nome_tabela SET campo1 = "Campo de Teste"
+
+Atualizar uma linha específica
+
+* UPDATE nome_tabela SET campo1 = "campo de teste", campo2 = "testando" WHERE campo1 = "registro do campo 1"
