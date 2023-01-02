@@ -192,3 +192,7 @@ Criar tabela:
 Ver estrutura da tabela
 
 * DESCRIBE NomeDaTabela
+
+## Manipulando dados no MySQL
+
+Sempre que quiser inseruir um novo dado no mySQL o comando a se utilizar é o comando insert into, ou seja "insira dentro".
