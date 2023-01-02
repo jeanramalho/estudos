@@ -211,4 +211,6 @@ Lista todos os dados da tabela
 
 * SELECT * FROM nome_tabela;
 
-Lista somente dados informados
+Lista somente dados informados da tabela selecionada
+
+* SELECT campo1 from nome_tabela
