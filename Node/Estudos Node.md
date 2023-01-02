@@ -222,3 +222,9 @@ Lista dados de acordo com a condição informada.
 * SELECT * FROM nome_tabela WHERE campo3 = 3;
 
 ## Deletando registros no mySQL
+
+Para deletar um registro é necessário utilizar o comando DELETE
+
+Deletando toda a tabela
+
+* DELETE FROM nome_tabela;
