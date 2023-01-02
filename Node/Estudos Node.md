@@ -196,3 +196,11 @@ Ver estrutura da tabela
 ## Manipulando dados no MySQL
 
 Sempre que quiser inseruir um novo dado no mySQL o comando a se utilizar é o comando insert into, ou seja "insira dentro".
+
+Inserir dados na tabela
+
+* INSERT INTO nome_tabela(campo1, campo2, campo3) VALUES (
+    "valor do campo1",
+    "valor do campo 3",
+    3
+)
