@@ -248,3 +248,6 @@ Atualizar uma linha específica
 * UPDATE nome_tabela SET campo1 = "campo de teste", campo2 = "testando" WHERE campo1 = "registro do campo 1"
 
 Nunca utilize o comando UPDATE sem a condição WHERE a menos que tenha certeza que queira atualizar o campo de todas as linhas da tabela.
+
+## Sequelize
+
