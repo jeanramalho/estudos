@@ -251,3 +251,4 @@ Nunca utilize o comando UPDATE sem a condição WHERE a menos que tenha certeza 
 
 ## Sequelize
 
+Esse módulo te ajuda a fazer as operações de MySQL diretamente do node.js
