@@ -265,3 +265,19 @@ Para trabalhar com o sequilize junto como mySQL é preciso instalar outro módul
 
 O sequelize é um ORM (Object-Relational Mapping), que é uma ferramenta que abstrai toda a camada do banco de dados, e facilita muito o contato com o banco de dados, onde você pode executar os comando SQL diretamente no código do programa.
 
+## Como se conectar ao banco de dados mySQL
+
+Para conexão utilize os seguintes comandos:
+
+* const Sequelize = require('sequelize')
+* const sequelize = new Sequelize('nome do banco de dados', 'usuário do bando de dados', 'senha do usuário passado' ), {
+    host: "servidor ex: localhost",
+    dialect: "tipo de banco de dados no nosso caso: mysql"
+})
+
+Para testar se a conexão está funcionando utilize:
+* sequelize.authenticate().then(function(){
+    console.log("Conectado com sucesso")
+}).catch(function(erro){
+    console.log(`Não foi possível conectar: ${erro}`)
+})
