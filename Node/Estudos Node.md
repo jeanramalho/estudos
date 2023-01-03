@@ -260,3 +260,5 @@ Para instalação do Sequelize utilize o seguinte comando com o terminal dentro 
 * npm install --save sequelize
 
 Para trabalhar com o sequilize junto como mySQL é preciso instalar outro módulo, o mySQl2.
+
+* npm install --save mysql2
