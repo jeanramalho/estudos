@@ -254,3 +254,8 @@ Nunca utilize o comando UPDATE sem a condição WHERE a menos que tenha certeza 
 Esse módulo te ajuda a fazer as operações de MySQL diretamente do node.js
 
 O Sequelize não trabalha apenas com o mySQL, pois é uma ferramenta bem versátil e trabalha com outros bancos de dados também.
+
+Para instalação do Sequelize utilize o seguinte comando com o terminal dentro da pasta do projeto.
+
+* npm install --save sequelize
+
