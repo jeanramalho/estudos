@@ -262,3 +262,6 @@ Para instalação do Sequelize utilize o seguinte comando com o terminal dentro 
 Para trabalhar com o sequilize junto como mySQL é preciso instalar outro módulo, o mySQl2.
 
 * npm install --save mysql2
+
+O sequelize é um ORM (Object-Relational Mapping), que é uma ferramenta que abstrai toda a camada do banco de dados, e facilita muito o contato com o banco de dados, onde você pode executar os comando SQL diretamente no código do programa.
+
