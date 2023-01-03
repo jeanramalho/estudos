@@ -252,3 +252,5 @@ Nunca utilize o comando UPDATE sem a condição WHERE a menos que tenha certeza 
 ## Sequelize
 
 Esse módulo te ajuda a fazer as operações de MySQL diretamente do node.js
+
+O Sequelize não trabalha apenas com o mySQL, pois é uma ferramenta bem versátil e trabalha com outros bancos de dados também.
