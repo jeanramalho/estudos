@@ -281,3 +281,6 @@ Para testar se a conexão está funcionando utilize:
 }).catch(function(erro){
     console.log(`Não foi possível conectar: ${erro}`)
 })
+
+## Handlebars
+
