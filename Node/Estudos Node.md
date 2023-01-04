@@ -286,6 +286,6 @@ Para testar se a conexão está funcionando utilize:
 
 O handlebars é um template enginers que dá muitas funcionalidades ao html, juntando funções javascript ao html, parecido com o jsx do react.
 
-Para instalação do handlebars utilize o comando:
+Para instalação do handlebars e utiliza-lo junto com o express utilize o comando:
 
 * npm install --save express-handlebars
