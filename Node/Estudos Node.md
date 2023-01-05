@@ -289,3 +289,7 @@ O handlebars é um template enginers que dá muitas funcionalidades ao html, jun
 Para instalação do handlebars e utiliza-lo junto com o express utilize o comando:
 
 * npm install --save express-handlebars
+
+## Criando um formulario de cadastro de post com node.js
+
+Crie as rotas.
