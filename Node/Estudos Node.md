@@ -293,3 +293,7 @@ Para instalação do handlebars e utiliza-lo junto com o express utilize o coman
 ## Criando um formulario de cadastro de post com node.js
 
 Crie as rotas.
+Após criar o arquivo main.handlebar crie os arquivos dos elementos html que deseja exibir no front, como se fossem componentes do react.
+na rota criada, ao invés de utilizar a função app.send() utilize a função app.render() passando o nome do arquivo que deseja renderizar nessa rota dentro do parenteses da função render entre aspas simples.
+
+Ex: app.render('formulario')
