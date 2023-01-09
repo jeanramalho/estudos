@@ -310,3 +310,6 @@ Não é possível acessar rotas do tipo POST via URL.
 
 ## Body Parser
 
+É uma ferramenta utilizada para receber dados de qualquer formulário.
+
+Para instalação use:
