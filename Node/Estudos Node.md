@@ -313,3 +313,4 @@ Não é possível acessar rotas do tipo POST via URL.
 É uma ferramenta utilizada para receber dados de qualquer formulário.
 
 Para instalação use:
+* npm install --save body-parser
