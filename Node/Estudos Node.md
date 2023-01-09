@@ -301,3 +301,7 @@ Ex: app.render('formulario')
 ## Como enviar dados do formulário
 
 Existem 2 maneiras de enviar dados do formulário, que são através do método GET e através do método POST, e existe uma diferença grande de segurança entre esses métodos.
+
+Ao realizar o envio através do método GET os dados são passados via URL
+
+Ao realizar o envio através do método POST os dados são passados escondidos, através do backend.
