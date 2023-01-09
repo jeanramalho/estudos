@@ -297,3 +297,7 @@ Após criar o arquivo main.handlebar crie os arquivos dos elementos html que des
 na rota criada, ao invés de utilizar a função app.send() utilize a função app.render() passando o nome do arquivo que deseja renderizar nessa rota dentro do parenteses da função render entre aspas simples.
 
 Ex: app.render('formulario')
+
+## Como enviar dados do formulário
+
+Existem 2 maneiras de enviar dados do formulário, que são através do método GET e através do método POST, e existe uma diferença grande de segurança entre esses métodos.
