@@ -305,3 +305,5 @@ Existem 2 maneiras de enviar dados do formulário, que são através do método 
 Ao realizar o envio através do método GET os dados são passados via URL
 
 Ao realizar o envio através do método POST os dados são passados escondidos, através do backend.
+
+Não é possível acessar rotas do tipo POST via URL.
