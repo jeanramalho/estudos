@@ -322,3 +322,6 @@ Cria banco de dados
 
 Escolhe banco de dados a ser usado
 * USE postapp
+
+Visualiza tabelas
+* SHOW TABLES
