@@ -318,3 +318,5 @@ Para instalação use:
 ## Estruturando o banco de Dados
 
 Cria banco de dados
+* CREATE DATABASE postapp
+
