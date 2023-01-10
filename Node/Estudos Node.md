@@ -320,3 +320,5 @@ Para instalação use:
 Cria banco de dados
 * CREATE DATABASE postapp
 
+Escolhe banco de dados a ser usado
+* USE postapp
