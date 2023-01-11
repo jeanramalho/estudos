@@ -334,3 +334,7 @@ pois se não sempre que a conexão for realizada denovo, os dados da tabela ser�
 
 ## Pegando dados do formulário
 
+Para pegar dados do formulário e passar para banco de dados, utilize o método de criação chamando a constante criada para receber e utilizando o .create como no exemplo abaixo.
+
+* Post.create
+
