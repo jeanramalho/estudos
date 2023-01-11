@@ -340,5 +340,5 @@ Para pegar dados do formulário e passar para banco de dados, utilize o método 
 
 Utilize o .then e o .catch para tratar erros e sucesso.
 
-Para redirecionamento utilize o comando
+Para redirecionamento utilize o comando no then da rota
 * res.redirect('/')
