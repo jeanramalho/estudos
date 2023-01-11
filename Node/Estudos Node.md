@@ -338,3 +338,4 @@ Para pegar dados do formulário e passar para banco de dados, utilize o método 
 
 * Post.create
 
+Utilize o .then e o .catch para tratar erros e sucesso.
