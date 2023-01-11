@@ -331,3 +331,6 @@ Sempre após realizar o teste de conexão com o banco de dados, comente ou exclu
 Post.sync({force: true})
 
 pois se não sempre que a conexão for realizada denovo, os dados da tabela serão excluídos e recriada uma nova estrutura do zero.
+
+## Pegando dados do formulário
+
