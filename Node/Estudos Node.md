@@ -342,3 +342,5 @@ Utilize o .then e o .catch para tratar erros e sucesso.
 
 Para redirecionamento utilize o comando no then da rota
 * res.redirect('/')
+
+## Listando Dados do banco
