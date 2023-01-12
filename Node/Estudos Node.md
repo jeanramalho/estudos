@@ -344,3 +344,8 @@ Para redirecionamento utilize o comando no then da rota
 * res.redirect('/')
 
 ## Listando Dados do banco
+
+Use o comando .all para retornar todos os registros do banco de dados. Utilizando Const.all() em uma rota get.
+No nosso caso nossa const é o Post.
+
+* Post.all()
