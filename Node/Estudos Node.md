@@ -355,3 +355,7 @@ A propriedade all, retorna cada linha da tabela, e para renderiza-las é preciso
 * Post.all().then(function(posts){
     render('home',{posts: posts})
 })
+
+Após serem implementadas essas linhas de código, nosso front receberá o retorno de um array de objetos.
+
+Para que esses objetos sejam renderizados corretamente no front, é necessário um tratamento desses dados recebidos no arquivo handlebars.
