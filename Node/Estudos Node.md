@@ -351,3 +351,7 @@ No nosso caso nossa const com o nome da nossa tabela é o Post.
 * Post.all()
 
 A propriedade all, retorna cada linha da tabela, e para renderiza-las é preciso utilizar o .then() passando uma função anonima recebendo como parametro a linha e renderizando através do .render.
+
+* Post.all().then(function(posts){
+    render('home',{posts: posts})
+})
