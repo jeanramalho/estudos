@@ -359,3 +359,11 @@ A propriedade all, retorna cada linha da tabela, e para renderiza-las é preciso
 Após serem implementadas essas linhas de código, nosso front receberá o retorno de um array de objetos.
 
 Para que esses objetos sejam renderizados corretamente no front, é necessário um tratamento desses dados recebidos no arquivo handlebars.
+
+No arquivo handlebar use a estrutura each com abertura e fechamento {{#each}} {{/each}} dentro da abertura do each passe o nome da variável que é o array de objetos que ela receberá {{#each posts}} dentro dessa estrutura, crie o esqueleto de exibição html passando os campos da tabela dentro de duas chaves <h1>{{titulo}}</h1>.
+ 
+ * {{#each posts}}
+    <h1>{{titulo}}</h1>
+    <p>{{conteudo}}</p>
+    <hr>
+   {{/each}}
