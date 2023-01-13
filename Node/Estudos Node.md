@@ -371,3 +371,9 @@ No arquivo handlebar use a estrutura each com abertura e fechamento {{#each}} {{
 ## Deletando registros no banco de dados
 
 Para deletar registros use a propriedade destroy, passando o id a ser deletado atraves do where e tratando com .then e .catch, como no exemplo abaixo:
+
+ * Post.destroy({where: {'id': req.params.id}}).then(function(){
+            res.send("Postagem deletada com sucesso!")
+        }).catch(function(erro){
+            res.send("Esta postagem não existe!")
+        })
