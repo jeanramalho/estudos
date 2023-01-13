@@ -369,3 +369,5 @@ No arquivo handlebar use a estrutura each com abertura e fechamento {{#each}} {{
    {{/each}}
 
 ## Deletando registros no banco de dados
+
+Para deletar registros use a propriedade destroy, passando o id a ser deletado atraves do where 
