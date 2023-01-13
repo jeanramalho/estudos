@@ -367,3 +367,5 @@ No arquivo handlebar use a estrutura each com abertura e fechamento {{#each}} {{
     <p>{{conteudo}}</p>
     <hr>
    {{/each}}
+
+## Deletando registros no banco de dados
