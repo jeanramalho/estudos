@@ -382,3 +382,5 @@ Para deletar registros use a propriedade destroy, passando o id a ser deletado a
 ## Introdução ao MongoDB
 
 O MongoDB é um banco de dados de código aberto, gratuito, de alta performance, sem esquemas e orientado à documentos.
+
+O MongoDB assim como o MySQL é um banco de dados, porém com algumas diferenças, entre essas diferenças, uma das maiores, se não a maior é que dentro do MongoDB não existem tabelas, e sim documentos, como se fossem um objeto JSON com chave e valor.
