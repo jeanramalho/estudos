@@ -403,3 +403,7 @@ O comando para iniciar o servidor mongo é:
 * mongod
 
 Para trabalhar com o mongo é necessário sempre estar com um servidor ativo em um prompt de comando.
+
+Para iniciar o shell de linha de comando do mongo utilize o comando:
+
+* mongo
