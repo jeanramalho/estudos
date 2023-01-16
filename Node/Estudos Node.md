@@ -401,3 +401,5 @@ Sempre que for trabalhar com mongo é necessário abrir o servidor do mongo e cr
 O comando para iniciar o servidor mongo é:
 
 * mongod
+
+Para trabalhar com o mongo é necessário sempre estar com um servidor ativo em um prompt de comando.
