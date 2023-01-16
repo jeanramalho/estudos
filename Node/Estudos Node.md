@@ -381,3 +381,4 @@ Para deletar registros use a propriedade destroy, passando o id a ser deletado a
 
 ## Introdução ao MongoDB
 
+O MongoDB é um banco de dados de código aberto, gratuito, de alta performance, sem esquemas e orientado à documentos.
