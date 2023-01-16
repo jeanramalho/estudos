@@ -391,3 +391,5 @@ Uma colection é como se fosse uma tabela com várias linhas, porém com documen
 
 Para instalação do mongo acesse:
 https://www.mongodb.com/
+
+Escolha a versão e baixe, instale e veja que junto com o mongo vem a ferramenta do mongo compass, que é uma ferramenta visual.
