@@ -396,3 +396,8 @@ Escolha a versão e baixe, instale e veja que junto com o mongo vem a ferramenta
 
 Para usar a linha de comando do mongo, e necessário realizar uma configuração. Criando uma variável de ambiente path no windows.
 
+Sempre que for trabalhar com mongo é necessário abrir o servidor do mongo e criar a pasta "data" no disco local C do windows.
+
+O comando para iniciar o servidor mongo é:
+
+* mongod
