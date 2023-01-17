@@ -407,3 +407,5 @@ Para trabalhar com o mongo é necessário sempre estar com um servidor ativo em 
 Para iniciar o shell de linha de comando do mongo utilize o comando:
 
 * mongo
+
+## Iniciando com Mogoose
