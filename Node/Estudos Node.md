@@ -432,3 +432,21 @@ Para se conectar com o banco de dados mongo utilize:
 Para criar um banco de dados no mongoose utlize:
 
 * use nomedobanco
+
+Para tratar sucesso ou erro utilize o then e catch:
+
+* mongoose.conect("mongodb//endereco.do.banco.de.dados/nomedobanco).then(() => {
+    console.log("conectado")
+}).catch((erro) => {
+    console.log(`Não foi possível conectar erro: ${erro}`)
+})
+
+Para evitar alguns erros comuns no mongo utilize o useMongoCliente setado para true após o endereço de conexão.
+
+* mongoose.conect("mongodb//endereco.do.banco.de.dados/nomedobanco, {
+    useMongoCliente: true
+}).then(() => {
+    console.log("conectado")
+}).catch((erro) => {
+    console.log(`Não foi possível conectar erro: ${erro}`)
+})
