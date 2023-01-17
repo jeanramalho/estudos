@@ -424,3 +424,11 @@ Para se conectar com um banco de dados Mongo através do mongoose lembre-se de e
 Primeiro crie uma const mongoose para fazer o require do mongoose.
 
 * const mongoose = require('mongoose')
+
+Para se conectar com o banco de dados mongo utilize:
+
+* mongoose.conect("mongodb//endereco.do.banco.de.dados/nomedobanco)
+
+Para criar um banco de dados no mongoose utlize:
+
+* use nomedobanco
