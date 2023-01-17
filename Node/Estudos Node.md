@@ -412,3 +412,5 @@ Para iniciar o shell de linha de comando do mongo utilize o comando:
 
 Mongoose é um módulo que permite trabalhar com mongodb diretamente do node.
 Muito mais simples que o sequelize e com muito mais recursos também.
+
+Mogoose é um ODM que mapeia os documentos do banco de dados Mongo.
