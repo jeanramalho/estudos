@@ -414,3 +414,8 @@ Mongoose é um módulo que permite trabalhar com mongodb diretamente do node.
 Muito mais simples que o sequelize e com muito mais recursos também.
 
 Mogoose é um ODM que mapeia os documentos do banco de dados Mongo.
+
+Para instalar o mongoose use:
+
+* npm install --save mongoose
+
