@@ -419,3 +419,8 @@ Para instalar o mongoose use:
 
 * npm install --save mongoose
 
+Para se conectar com um banco de dados Mongo através do mongoose lembre-se de estar com o servidor mongo aberto.
+
+Primeiro crie uma const mongoose para fazer o require do mongoose.
+
+* const mongoose = require('mongoose')
