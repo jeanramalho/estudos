@@ -454,3 +454,14 @@ Para evitar alguns erros comuns no mongo utilize o useMongoCliente setado para t
 Outra dica bastante interessante é usar global.promise acima do código de conexão.
 
 * mongoose.Promise = global.Promise
+
+Configuração do mongoose deve seguir exatamente esse padrão.
+
+* mongoose.Promise = global.Promise
+  mongoose.conect("mongodb//endereco.do.banco.de.dados/nomedobanco, {
+    useMongoCliente: true
+}).then(() => {
+    console.log("conectado")
+}).catch((erro) => {
+    console.log(`Não foi possível conectar erro: ${erro}`)
+})
