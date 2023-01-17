@@ -450,3 +450,7 @@ Para evitar alguns erros comuns no mongo utilize o useMongoCliente setado para t
 }).catch((erro) => {
     console.log(`Não foi possível conectar erro: ${erro}`)
 })
+
+Outra dica bastante interessante é usar global.promise acima do código de conexão.
+
+* mongoose.Promise = global.Promise
