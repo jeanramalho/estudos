@@ -465,3 +465,5 @@ Configuração do mongoose deve seguir exatamente esse padrão.
 }).catch((erro) => {
     console.log(`Não foi possível conectar erro: ${erro}`)
 })
+
+## Trabalhando com mongoose
