@@ -511,3 +511,15 @@ Trate sucesso e erro com o .then e o .catch:
 }).catch((erro) => {
     console.log(`Erro encontrado: ${erro}`)
 })
+
+Não se esqueça que para manipular a model é necessário coloca-la dentro de uma constante.
+
+* cons Nome = mongoose.model('users')
+  new Nome({
+    nome: "nome",
+    sobrenome: "do usuário"
+}).save.then(() => {
+    console.log("Usuário salvo com sucesso")
+}).catch((erro) => {
+    console.log(`Erro encontrado: ${erro}`)
+})
