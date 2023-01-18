@@ -485,4 +485,4 @@ Lembre-se que após passar o nome do campo da model, é necessário passar um ob
 
 Após criar a estrutura do model use o mongoose.model para finalizar o processo, passando o nome do model no plural para formar uma coleção e separado por vírgula passando o nome da variável model.
 
-* 
+* mongoose.model('users', UserSchema)
