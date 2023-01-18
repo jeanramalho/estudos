@@ -480,3 +480,5 @@ Para definir um Model no mongoose siga o padrão:
         require: true
     }
 })
+
+Lembre-se que após passar o nome do campo da model, é necessário passar um objeto com o type e o require, onde o require mostra se o campo é obrigatório ou não.
