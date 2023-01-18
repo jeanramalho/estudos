@@ -493,3 +493,5 @@ Para criar um novo usuário utilize, passando um objeto com os campos preenchido
     nome: "nome",
     sobrenome: "do usuário"
 })
+
+Para salvar o usuário ao final da definição use o .save como no exemplo abaixo.
