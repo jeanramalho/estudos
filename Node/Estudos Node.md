@@ -503,3 +503,11 @@ Para salvar o usuário ao final da definição use o .save como no exemplo abaix
 
 Trate sucesso e erro com o .then e o .catch:
 
+* new UserSchema({
+    nome: "nome",
+    sobrenome: "do usuário"
+}).save.then(() => {
+    console.log("Usuário salvo com sucesso")
+}).catch((erro) => {
+    console.log(`Erro encontrado: ${erro}`)
+})
