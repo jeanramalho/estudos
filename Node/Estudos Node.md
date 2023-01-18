@@ -489,4 +489,7 @@ Após criar a estrutura do model use o mongoose.model para finalizar o processo,
 
 Para criar um novo usuário utilize, passando um objeto com os campos preenchidos com os valores escolhidos. 
 
-* new u
+* new UserSchema({
+    nome: "nome",
+    sobrenome: "do usuário"
+})
