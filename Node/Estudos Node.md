@@ -475,4 +475,8 @@ Para definir um Model no mongoose siga o padrão:
         type: String,
         require: true
     }
+    sobrenome: {
+        type: String,
+        require: true
+    }
 })
