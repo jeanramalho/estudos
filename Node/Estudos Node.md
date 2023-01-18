@@ -495,3 +495,8 @@ Para criar um novo usuário utilize, passando um objeto com os campos preenchido
 })
 
 Para salvar o usuário ao final da definição use o .save como no exemplo abaixo.
+
+* new UserSchema({
+    nome: "nome",
+    sobrenome: "do usuário"
+}).save
