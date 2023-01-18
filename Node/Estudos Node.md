@@ -500,3 +500,6 @@ Para salvar o usuário ao final da definição use o .save como no exemplo abaix
     nome: "nome",
     sobrenome: "do usuário"
 }).save
+
+Trate sucesso e erro com o .then e o .catch:
+
