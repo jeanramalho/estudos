@@ -467,3 +467,7 @@ Configuração do mongoose deve seguir exatamente esse padrão.
 })
 
 ## Trabalhando com mongoose
+
+Para definir um Model no mongoose siga o padrão:
+
+* 
