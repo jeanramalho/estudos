@@ -472,6 +472,7 @@ Para definir um Model no mongoose siga o padrão:
 
 * const UserSchema = mongoose.schema({
     nome:{
-        type: 
+        type: String,
+        require: true
     }
 })
